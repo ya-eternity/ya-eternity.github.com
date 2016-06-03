@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ya-eternity.github.io/"/>
-  <updated>2016-06-03T04:16:17.000Z</updated>
+  <updated>2016-02-20T06:51:22.000Z</updated>
   <id>http://ya-eternity.github.io/</id>
   
   <author>
@@ -16,11 +16,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://ya-eternity.github.io/2016/06/03/iOS%E7%AE%80%E5%8E%86/"/>
-    <id>http://ya-eternity.github.io/2016/06/03/iOS简历/</id>
-    <published>2016-06-03T04:16:17.000Z</published>
-    <updated>2016-06-03T04:16:17.000Z</updated>
+    <title>[Hexo init]--挖了很多坑后的第一篇</title>
+    <link href="http://ya-eternity.github.io/2016/02/20/Hexo-init-%E6%8C%96%E4%BA%86%E5%BE%88%E5%A4%9A%E5%9D%91%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://ya-eternity.github.io/2016/02/20/Hexo-init-挖了很多坑后的第一篇/</id>
+    <published>2016-02-20T02:56:26.000Z</published>
+    <updated>2016-02-20T06:51:22.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Hello! 大家好！我是Zoey，被小伙伴安利了Hexo，在跳了很多坑终于好像搭的像样了╮(╯_╰)╭&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello! 大家好！我是Zoey，被小伙伴安利了Hexo，在跳了很多坑终于好像搭的像样了╮(╯_╰)╭&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iOS 简历</title>
+    <link href="http://ya-eternity.github.io/2016/02/20/iOS%E7%AE%80%E5%8E%86/"/>
+    <id>http://ya-eternity.github.io/2016/02/20/iOS简历/</id>
+    <published>2016-02-20T02:56:26.000Z</published>
+    <updated>2016-06-03T04:20:43.000Z</updated>
     
     <content type="html">&lt;h3 id=&quot;王言韶雅-iOS-开发工程师&quot;&gt;&lt;a href=&quot;#王言韶雅-iOS-开发工程师&quot; class=&quot;headerlink&quot; title=&quot;王言韶雅 - iOS 开发工程师&quot;&gt;&lt;/a&gt;王言韶雅 - iOS 开发工程师&lt;/h3&gt;&lt;p&gt;工作经验：1年 &lt;/p&gt;
 &lt;p&gt;手机：151-1792-8241&lt;/p&gt;
@@ -106,26 +126,6 @@
     
       &lt;h3 id=&quot;王言韶雅-iOS-开发工程师&quot;&gt;&lt;a href=&quot;#王言韶雅-iOS-开发工程师&quot; class=&quot;headerlink&quot; title=&quot;王言韶雅 - iOS 开发工程师&quot;&gt;&lt;/a&gt;王言韶雅 - iOS 开发工程师&lt;/h3&gt;&lt;p&gt;工作经验：1年 &lt;/p&gt;
 &lt;p&gt;手机
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>[Hexo init]--挖了很多坑后的第一篇</title>
-    <link href="http://ya-eternity.github.io/2016/02/20/Hexo-init-%E6%8C%96%E4%BA%86%E5%BE%88%E5%A4%9A%E5%9D%91%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
-    <id>http://ya-eternity.github.io/2016/02/20/Hexo-init-挖了很多坑后的第一篇/</id>
-    <published>2016-02-20T02:56:26.000Z</published>
-    <updated>2016-02-20T06:51:22.000Z</updated>
-    
-    <content type="html">&lt;p&gt;Hello! 大家好！我是Zoey，被小伙伴安利了Hexo，在跳了很多坑终于好像搭的像样了╮(╯_╰)╭&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Hello! 大家好！我是Zoey，被小伙伴安利了Hexo，在跳了很多坑终于好像搭的像样了╮(╯_╰)╭&lt;/p&gt;
-
     
     </summary>
     
