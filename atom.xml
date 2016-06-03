@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ya-eternity.github.io/"/>
-  <updated>2016-06-03T04:28:23.000Z</updated>
+  <updated>2016-06-03T04:32:01.000Z</updated>
   <id>http://ya-eternity.github.io/</id>
   
   <author>
@@ -16,164 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://ya-eternity.github.io/2016/06/03/iOS%E7%AE%80%E5%8E%86/"/>
-    <id>http://ya-eternity.github.io/2016/06/03/iOS简历/</id>
-    <published>2016-06-03T04:28:23.000Z</published>
-    <updated>2016-06-03T04:28:23.000Z</updated>
-    
-    <content type="html">&lt;!--&lt;!DOCTYPE html&gt;&lt;html&gt;
---&gt;
-&lt;p&gt;&lt;head&gt;&lt;/head&gt;&lt;/p&gt;
-&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;title&gt;iOS简历&lt;/title&gt;&lt;/p&gt;
-&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;&lt;br&gt;body {&lt;br&gt;  font-family: Helvetica, arial, sans-serif;&lt;br&gt;  font-size: 14px;&lt;br&gt;  line-height: 1.6;&lt;br&gt;  padding-top: 10px;&lt;br&gt;  padding-bottom: 10px;&lt;br&gt;  background-color: white;&lt;br&gt;  padding: 30px; }&lt;/p&gt;
-&lt;p&gt;body &amp;gt; &lt;em&gt;:first-child {&lt;br&gt;  margin-top: 0 !important; }&lt;br&gt;body &amp;gt; &lt;/em&gt;:last-child {&lt;br&gt;  margin-bottom: 0 !important; }&lt;/p&gt;
-&lt;p&gt;a {&lt;br&gt;  color: #4183C4; }&lt;br&gt;a.absent {&lt;br&gt;  color: #cc0000; }&lt;br&gt;a.anchor {&lt;br&gt;  display: block;&lt;br&gt;  padding-left: 30px;&lt;br&gt;  margin-left: -30px;&lt;br&gt;  cursor: pointer;&lt;br&gt;  position: absolute;&lt;br&gt;  top: 0;&lt;br&gt;  left: 0;&lt;br&gt;  bottom: 0; }&lt;/p&gt;
-&lt;p&gt;h1, h2, h3, h4, h5, h6 {&lt;br&gt;  margin: 20px 0 10px;&lt;br&gt;  padding: 0;&lt;br&gt;  font-weight: bold;&lt;br&gt;  -webkit-font-smoothing: antialiased;&lt;br&gt;  cursor: text;&lt;br&gt;  position: relative; }&lt;/p&gt;
-&lt;p&gt;h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {&lt;br&gt;  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;&lt;br&gt;  text-decoration: none; }&lt;/p&gt;
-&lt;p&gt;h1 tt, h1 code {&lt;br&gt;  font-size: inherit; }&lt;/p&gt;
-&lt;p&gt;h2 tt, h2 code {&lt;br&gt;  font-size: inherit; }&lt;/p&gt;
-&lt;p&gt;h3 tt, h3 code {&lt;br&gt;  font-size: inherit; }&lt;/p&gt;
-&lt;p&gt;h4 tt, h4 code {&lt;br&gt;  font-size: inherit; }&lt;/p&gt;
-&lt;p&gt;h5 tt, h5 code {&lt;br&gt;  font-size: inherit; }&lt;/p&gt;
-&lt;p&gt;h6 tt, h6 code {&lt;br&gt;  font-size: inherit; }&lt;/p&gt;
-&lt;p&gt;h1 {&lt;br&gt;  font-size: 28px;&lt;br&gt;  color: black; }&lt;/p&gt;
-&lt;p&gt;h2 {&lt;br&gt;  font-size: 24px;&lt;br&gt;  border-bottom: 1px solid #cccccc;&lt;br&gt;  color: black; }&lt;/p&gt;
-&lt;p&gt;h3 {&lt;br&gt;  font-size: 18px; }&lt;/p&gt;
-&lt;p&gt;h4 {&lt;br&gt;  font-size: 16px; }&lt;/p&gt;
-&lt;p&gt;h5 {&lt;br&gt;  font-size: 14px; }&lt;/p&gt;
-&lt;p&gt;h6 {&lt;br&gt;  color: #777777;&lt;br&gt;  font-size: 14px; }&lt;/p&gt;
-&lt;p&gt;p, blockquote, ul, ol, dl, li, table, pre {&lt;br&gt;  margin: 15px 0; }&lt;/p&gt;
-&lt;p&gt;hr {&lt;br&gt;  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;&lt;br&gt;  border: 0 none;&lt;br&gt;  color: #cccccc;&lt;br&gt;  height: 4px;&lt;br&gt;  padding: 0;&lt;br&gt;}&lt;/p&gt;
-&lt;p&gt;body &amp;gt; h2:first-child {&lt;br&gt;  margin-top: 0;&lt;br&gt;  padding-top: 0; }&lt;br&gt;body &amp;gt; h1:first-child {&lt;br&gt;  margin-top: 0;&lt;br&gt;  padding-top: 0; }&lt;br&gt;  body &amp;gt; h1:first-child + h2 {&lt;br&gt;    margin-top: 0;&lt;br&gt;    padding-top: 0; }&lt;br&gt;body &amp;gt; h3:first-child, body &amp;gt; h4:first-child, body &amp;gt; h5:first-child, body &amp;gt; h6:first-child {&lt;br&gt;  margin-top: 0;&lt;br&gt;  padding-top: 0; }&lt;/p&gt;
-&lt;p&gt;a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {&lt;br&gt;  margin-top: 0;&lt;br&gt;  padding-top: 0; }&lt;/p&gt;
-&lt;p&gt;h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {&lt;br&gt;  margin-top: 0; }&lt;/p&gt;
-&lt;p&gt;li p.first {&lt;br&gt;  display: inline-block; }&lt;br&gt;li {&lt;br&gt;  margin: 0; }&lt;br&gt;ul, ol {&lt;br&gt;  padding-left: 30px; }&lt;/p&gt;
-&lt;p&gt;ul :first-child, ol :first-child {&lt;br&gt;  margin-top: 0; }&lt;/p&gt;
-&lt;p&gt;dl {&lt;br&gt;  padding: 0; }&lt;br&gt;  dl dt {&lt;br&gt;    font-size: 14px;&lt;br&gt;    font-weight: bold;&lt;br&gt;    font-style: italic;&lt;br&gt;    padding: 0;&lt;br&gt;    margin: 15px 0 5px; }&lt;br&gt;    dl dt:first-child {&lt;br&gt;      padding: 0; }&lt;br&gt;    dl dt &amp;gt; :first-child {&lt;br&gt;      margin-top: 0; }&lt;br&gt;    dl dt &amp;gt; :last-child {&lt;br&gt;      margin-bottom: 0; }&lt;br&gt;  dl dd {&lt;br&gt;    margin: 0 0 15px;&lt;br&gt;    padding: 0 15px; }&lt;br&gt;    dl dd &amp;gt; :first-child {&lt;br&gt;      margin-top: 0; }&lt;br&gt;    dl dd &amp;gt; :last-child {&lt;br&gt;      margin-bottom: 0; }&lt;/p&gt;
-&lt;p&gt;blockquote {&lt;br&gt;  border-left: 4px solid #dddddd;&lt;br&gt;  padding: 0 15px;&lt;br&gt;  color: #777777; }&lt;br&gt;  blockquote &amp;gt; :first-child {&lt;br&gt;    margin-top: 0; }&lt;br&gt;  blockquote &amp;gt; :last-child {&lt;br&gt;    margin-bottom: 0; }&lt;/p&gt;
-&lt;p&gt;table {&lt;br&gt;  padding: 0;border-collapse: collapse; }&lt;br&gt;  table tr {&lt;br&gt;    border-top: 1px solid #cccccc;&lt;br&gt;    background-color: white;&lt;br&gt;    margin: 0;&lt;br&gt;    padding: 0; }&lt;br&gt;    table tr:nth-child(2n) {&lt;br&gt;      background-color: #f8f8f8; }&lt;br&gt;    table tr th {&lt;br&gt;      font-weight: bold;&lt;br&gt;      border: 1px solid #cccccc;&lt;br&gt;      margin: 0;&lt;br&gt;      padding: 6px 13px; }&lt;br&gt;    table tr td {&lt;br&gt;      border: 1px solid #cccccc;&lt;br&gt;      margin: 0;&lt;br&gt;      padding: 6px 13px; }&lt;br&gt;    table tr th :first-child, table tr td :first-child {&lt;br&gt;      margin-top: 0; }&lt;br&gt;    table tr th :last-child, table tr td :last-child {&lt;br&gt;      margin-bottom: 0; }&lt;/p&gt;
-&lt;p&gt;img {&lt;br&gt;  max-width: 100%; }&lt;/p&gt;
-&lt;p&gt;span.frame {&lt;br&gt;  display: block;&lt;br&gt;  overflow: hidden; }&lt;br&gt;  span.frame &amp;gt; span {&lt;br&gt;    border: 1px solid #dddddd;&lt;br&gt;    display: block;&lt;br&gt;    float: left;&lt;br&gt;    overflow: hidden;&lt;br&gt;    margin: 13px 0 0;&lt;br&gt;    padding: 7px;&lt;br&gt;    width: auto; }&lt;br&gt;  span.frame span img {&lt;br&gt;    display: block;&lt;br&gt;    float: left; }&lt;br&gt;  span.frame span span {&lt;br&gt;    clear: both;&lt;br&gt;    color: #333333;&lt;br&gt;    display: block;&lt;br&gt;    padding: 5px 0 0; }&lt;br&gt;span.align-center {&lt;br&gt;  display: block;&lt;br&gt;  overflow: hidden;&lt;br&gt;  clear: both; }&lt;br&gt;  span.align-center &amp;gt; span {&lt;br&gt;    display: block;&lt;br&gt;    overflow: hidden;&lt;br&gt;    margin: 13px auto 0;&lt;br&gt;    text-align: center; }&lt;br&gt;  span.align-center span img {&lt;br&gt;    margin: 0 auto;&lt;br&gt;    text-align: center; }&lt;br&gt;span.align-right {&lt;br&gt;  display: block;&lt;br&gt;  overflow: hidden;&lt;br&gt;  clear: both; }&lt;br&gt;  span.align-right &amp;gt; span {&lt;br&gt;    display: block;&lt;br&gt;    overflow: hidden;&lt;br&gt;    margin: 13px 0 0;&lt;br&gt;    text-align: right; }&lt;br&gt;  span.align-right span img {&lt;br&gt;    margin: 0;&lt;br&gt;    text-align: right; }&lt;br&gt;span.float-left {&lt;br&gt;  display: block;&lt;br&gt;  margin-right: 13px;&lt;br&gt;  overflow: hidden;&lt;br&gt;  float: left; }&lt;br&gt;  span.float-left span {&lt;br&gt;    margin: 13px 0 0; }&lt;br&gt;span.float-right {&lt;br&gt;  display: block;&lt;br&gt;  margin-left: 13px;&lt;br&gt;  overflow: hidden;&lt;br&gt;  float: right; }&lt;br&gt;  span.float-right &amp;gt; span {&lt;br&gt;    display: block;&lt;br&gt;    overflow: hidden;&lt;br&gt;    margin: 13px auto 0;&lt;br&gt;    text-align: right; }&lt;/p&gt;
-&lt;p&gt;code, tt {&lt;br&gt;  margin: 0 2px;&lt;br&gt;  padding: 0 5px;&lt;br&gt;  white-space: nowrap;&lt;br&gt;  border: 1px solid #eaeaea;&lt;br&gt;  background-color: #f8f8f8;&lt;br&gt;  border-radius: 3px; }&lt;/p&gt;
-&lt;p&gt;pre code {&lt;br&gt;  margin: 0;&lt;br&gt;  padding: 0;&lt;br&gt;  white-space: pre;&lt;br&gt;  border: none;&lt;br&gt;  background: transparent; }&lt;/p&gt;
-&lt;p&gt;.highlight pre {&lt;br&gt;  background-color: #f8f8f8;&lt;br&gt;  border: 1px solid #cccccc;&lt;br&gt;  font-size: 13px;&lt;br&gt;  line-height: 19px;&lt;br&gt;  overflow: auto;&lt;br&gt;  padding: 6px 10px;&lt;br&gt;  border-radius: 3px; }&lt;/p&gt;
-&lt;p&gt;pre {&lt;br&gt;  background-color: #f8f8f8;&lt;br&gt;  border: 1px solid #cccccc;&lt;br&gt;  font-size: 13px;&lt;br&gt;  line-height: 19px;&lt;br&gt;  overflow: auto;&lt;br&gt;  padding: 6px 10px;&lt;br&gt;  border-radius: 3px; }&lt;br&gt;  pre code, pre tt {&lt;br&gt;    background-color: transparent;&lt;br&gt;    border: none; }&lt;/p&gt;
-&lt;p&gt;sup {&lt;br&gt;    font-size: 0.83em;&lt;br&gt;    vertical-align: super;&lt;br&gt;    line-height: 0;&lt;br&gt;}&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;{&lt;br&gt;  -webkit-print-color-adjust: exact;&lt;br&gt;}&lt;br&gt;@media screen and (min-width: 914px) {&lt;br&gt;  body {&lt;pre&gt;&lt;code&gt;width: 854px;
-margin:0 auto;
-&lt;/code&gt;&lt;/pre&gt;  }&lt;br&gt;}&lt;br&gt;@media print {&lt;br&gt;  table, pre {&lt;pre&gt;&lt;code&gt;page-break-inside: avoid;
-&lt;/code&gt;&lt;/pre&gt;  }&lt;br&gt;  pre {&lt;pre&gt;&lt;code&gt;word-wrap: break-word;
-&lt;/code&gt;&lt;/pre&gt;  }&lt;br&gt;}&lt;br&gt;&lt;/style&gt;&lt;br&gt;&lt;body&gt;
-
-
-
-
-&lt;h3 id=&quot;toc_0&quot;&gt;王言韶雅 - iOS 开发工程师&lt;/h3&gt;
-
-&lt;p&gt;工作经验：1年 &lt;/p&gt;
-
-&lt;p&gt;手机：151-1792-8241&lt;/p&gt;
-
-&lt;p&gt;邮箱：&lt;br&gt;&lt;a href=&quot;yeziyan825@gmail.com&quot;&gt; yeziyan825@gmail.com &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Github: &lt;a href=&quot;https://github.com/ya-eternity&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; https://github.com/ya-eternity &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;toc_1&quot;&gt;项目经验&lt;/h4&gt;
-
-&lt;h2 id=&quot;toc_2&quot;&gt;&lt;/h2&gt;
-
-&lt;p&gt;iOS 开发工程师 | 成都脸帮网络科技有限公司&lt;/p&gt;
-
-&lt;p&gt;2015.12 - 2016.05&lt;/p&gt;
-
-&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;脸帮&lt;/strong&gt; &lt;a href=&quot;https://itunes.apple.com/cn/app/facehelp-lian-bang/id1061012451?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载链接&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;脸帮 2.2 负责新功能开发&lt;/li&gt;&lt;br&gt;&lt;li&gt;脸帮 2.0&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;  iOS 客户端主要负责人&lt;/li&gt;&lt;br&gt;&lt;li&gt;  用 MVC 模式对项目进行整体重构&lt;/li&gt;&lt;br&gt;&lt;li&gt;  负责首页、发单、广场模块的开发&lt;/li&gt;&lt;br&gt;&lt;li&gt; iOS 7.0 以上版本的适配以及屏幕适配&lt;/li&gt;&lt;br&gt;&lt;li&gt; AFNetworking 3.0 迁移&lt;/li&gt;&lt;br&gt;&lt;li&gt; 使用 git 进行版本控制&lt;/li&gt;&lt;br&gt;&lt;li&gt; 使用 Cocoapods 管理第三方框架&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;脸帮 1.0 以上版本&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;bug修复以及相关代码重构&lt;/li&gt;&lt;br&gt;&lt;li&gt;采用 svn 进行版本控制&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;邂逅美丽周末&lt;/strong&gt; | 个人项目 &lt;a href=&quot;https://code.aliyun.com/2307735634/Encounter/tree/master&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载链接&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;毕业设计项目&lt;/li&gt;&lt;br&gt;&lt;li&gt;个人开发，UI设计、接口获取、项目整体功能的设计都由自己个人完成&lt;/li&gt;&lt;br&gt;&lt;li&gt; 由于利用业余时间断断续续的开发，项目开发周期比较长，可能还有很多考虑不周的地方&lt;/li&gt;&lt;br&gt;&lt;li&gt; 因为没有UI，只能自己撸袖子上，也学会了几个原型设计工具（比如sketch）的简单使用，可以自己画一些简单的icon&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;iOS 开发实习 | 成都果范创想科技有限公司&lt;/p&gt;
-
-&lt;p&gt;2015.7 - 2015.11&lt;/p&gt;
-
-&lt;ul&gt;&lt;br&gt;&lt;li&gt;任游 &lt;a href=&quot;https://itunes.apple.com/us/app/ren-you-chu-jing-zi-zhu-you/id993061232?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载链接&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;负责1.0版本的维护和更新&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;toc_3&quot;&gt;技能补充&lt;/h4&gt;
-
-&lt;h2 id=&quot;toc_4&quot;&gt;&lt;/h2&gt;
-
-&lt;ul&gt;&lt;br&gt;&lt;li&gt;扎实的 Objective-C/C 基础，熟悉Swift&lt;/li&gt;&lt;br&gt;&lt;li&gt;对 iOS 项目架构有一定个人见解&lt;/li&gt;&lt;br&gt;&lt;li&gt;熟悉开发中常用的设计模式&lt;/li&gt;&lt;br&gt;&lt;li&gt;熟悉 GCD/NSOperation 多线程编程&lt;/li&gt;&lt;br&gt;&lt;li&gt;熟悉 Realm/SQLite 的使用&lt;/li&gt;&lt;br&gt;&lt;li&gt;熟练使用 CocoaPods 管理第三方库&lt;/li&gt;&lt;br&gt;&lt;li&gt;熟练使用 git/svn 进行版本控制&lt;/li&gt;&lt;br&gt;&lt;li&gt;良好的编程习惯&lt;/li&gt;&lt;br&gt;&lt;li&gt;工具相关：Instruments/Charles/Sketch&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;toc_5&quot;&gt;教育经历&lt;/h4&gt;
-
-&lt;h2 id=&quot;toc_6&quot;&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;电子信息工程&lt;/strong&gt; | 湖南科技学院&lt;/p&gt;
-
-&lt;p&gt;2012.09 - 2016.07&lt;/p&gt;
-
-&lt;ul&gt;&lt;br&gt;&lt;li&gt;在校经历&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;大一加入无线电协会，参加协会组织的多起义务维修&lt;/li&gt;&lt;br&gt;&lt;li&gt;大二通过考核进入创新实验室&lt;/li&gt;&lt;br&gt;&lt;li&gt;曾获得国家励志奖学金，并连续三年获得校奖学金&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;toc_7&quot;&gt;编程语言&lt;/h4&gt;
-
-&lt;h2 id=&quot;toc_8&quot;&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Objective-C/C&lt;/strong&gt; | 熟练&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Swift&lt;/strong&gt; | 中&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HTML&lt;/strong&gt; | 会使用&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;toc_9&quot;&gt;语言能力&lt;/h4&gt;
-
-&lt;h2 id=&quot;toc_10&quot;&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;英语&lt;/strong&gt; | 四级，读写能力强&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;日语&lt;/strong&gt; | 初级&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-
-&lt;p&gt;&lt;/p&gt;&lt;/body&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;!--&lt;!DOCTYPE html&gt;&lt;html&gt;
---&gt;
-&lt;p&gt;&lt;head&gt;&lt;/head&gt;&lt;/p&gt;
-&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;title&gt;iOS简历&lt;/title&gt;&lt;/p&gt;
-&lt;p&gt;&lt;style type=&quot;text/css&quot;&gt;&lt;br&gt;b
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>[Hexo init]--挖了很多坑后的第一篇</title>
+    <title>[Hexo init] 挖了很多坑后的第一篇</title>
     <link href="http://ya-eternity.github.io/2016/02/20/Hexo-init-%E6%8C%96%E4%BA%86%E5%BE%88%E5%A4%9A%E5%9D%91%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
     <id>http://ya-eternity.github.io/2016/02/20/Hexo-init-挖了很多坑后的第一篇/</id>
     <published>2016-02-20T02:56:26.000Z</published>
-    <updated>2016-02-20T06:51:22.000Z</updated>
+    <updated>2016-06-03T04:32:01.000Z</updated>
     
     <content type="html">&lt;p&gt;Hello! 大家好！我是Zoey，被小伙伴安利了Hexo，在跳了很多坑终于好像搭的像样了╮(╯_╰)╭&lt;/p&gt;
 </content>
@@ -182,6 +29,104 @@ margin:0 auto;
     
       &lt;p&gt;Hello! 大家好！我是Zoey，被小伙伴安利了Hexo，在跳了很多坑终于好像搭的像样了╮(╯_╰)╭&lt;/p&gt;
 
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iOS 简历</title>
+    <link href="http://ya-eternity.github.io/2016/02/20/iOS%E7%AE%80%E5%8E%86/"/>
+    <id>http://ya-eternity.github.io/2016/02/20/iOS简历/</id>
+    <published>2016-02-20T02:56:26.000Z</published>
+    <updated>2016-06-03T04:38:23.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;/p&gt;&lt;h4&gt; 个人信息&lt;/h4&gt;&lt;br&gt;王言韶雅 / 女 / 1995&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;手机：151-1792-8241&lt;/p&gt;
+&lt;p&gt;邮箱：&lt;br&gt;&lt;a href=&quot;yeziyan825@gmail.com&quot;&gt; yeziyan825@gmail.com &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Github: &lt;a href=&quot;https://github.com/ya-eternity&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; https://github.com/ya-eternity &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;项目经验&quot;&gt;&lt;a href=&quot;#项目经验&quot; class=&quot;headerlink&quot; title=&quot;项目经验&quot;&gt;&lt;/a&gt;&lt;h4&gt;项目经验&lt;/h4&gt;&lt;/h2&gt;&lt;p&gt;iOS 开发工程师 | 成都脸帮网络科技有限公司&lt;/p&gt;
+&lt;p&gt;2015.12 - 2016.05&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;脸帮&lt;/strong&gt; &lt;a href=&quot;https://itunes.apple.com/cn/app/facehelp-lian-bang/id1061012451?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载链接&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;脸帮 2.2 负责新功能开发&lt;/li&gt;
+&lt;li&gt;脸帮 2.0 &lt;ul&gt;
+&lt;li&gt;iOS 客户端主要负责人&lt;/li&gt;
+&lt;li&gt;用 MVC 模式对项目进行整体重构&lt;/li&gt;
+&lt;li&gt;负责首页、发单、广场模块的开发&lt;/li&gt;
+&lt;li&gt;iOS 7.0 以上版本的适配以及屏幕适配&lt;/li&gt;
+&lt;li&gt;AFNetworking 3.0 迁移&lt;/li&gt;
+&lt;li&gt;使用 git 进行版本控制&lt;/li&gt;
+&lt;li&gt;使用 Cocoapods 管理第三方框架&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;脸帮 1.0 以上版本&lt;ul&gt;
+&lt;li&gt;bug修复以及相关代码重构&lt;/li&gt;
+&lt;li&gt;采用 svn 进行版本控制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;邂逅美丽周末&lt;/strong&gt; | 个人项目 &lt;a href=&quot;https://code.aliyun.com/2307735634/Encounter/tree/master&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载链接&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;毕业设计项目&lt;/li&gt;
+&lt;li&gt;个人开发，UI设计、接口获取、项目整体功能的设计都由自己个人完成&lt;/li&gt;
+&lt;li&gt;由于利用业余时间断断续续的开发，项目开发周期比较长，可能还有很多考虑不周的地方&lt;/li&gt;
+&lt;li&gt;因为没有UI，只能自己撸袖子上，也学会了几个原型设计工具（比如sketch）的简单使用，可以自己画一些简单的icon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;iOS 开发实习 | 成都果范创想科技有限公司&lt;/p&gt;
+&lt;p&gt;2015.7 - 2015.11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;任游 &lt;a href=&quot;https://itunes.apple.com/us/app/ren-you-chu-jing-zi-zhu-you/id993061232?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;下载链接&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;负责1.0版本的维护和更新&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;技能补充&quot;&gt;&lt;a href=&quot;#技能补充&quot; class=&quot;headerlink&quot; title=&quot;技能补充&quot;&gt;&lt;/a&gt;&lt;h4&gt;技能补充&lt;/h4&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;扎实的 Objective-C/C 基础，熟悉Swift&lt;/li&gt;
+&lt;li&gt;对 iOS 项目架构有一定个人见解&lt;/li&gt;
+&lt;li&gt;熟悉开发中常用的设计模式&lt;/li&gt;
+&lt;li&gt;熟悉 GCD/NSOperation 多线程编程&lt;/li&gt;
+&lt;li&gt;熟悉 Realm/SQLite 的使用&lt;/li&gt;
+&lt;li&gt;熟练使用 CocoaPods 管理第三方库&lt;/li&gt;
+&lt;li&gt;熟练使用 git/svn 进行版本控制&lt;/li&gt;
+&lt;li&gt;良好的编程习惯&lt;/li&gt;
+&lt;li&gt;工具相关：Instruments/Charles/Sketch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;教育经历&quot;&gt;&lt;a href=&quot;#教育经历&quot; class=&quot;headerlink&quot; title=&quot;教育经历&quot;&gt;&lt;/a&gt;&lt;h4&gt;教育经历&lt;/h4&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;电子信息工程&lt;/strong&gt; | 湖南科技学院&lt;/p&gt;
+&lt;p&gt;2012.09 - 2016.07&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在校经历&lt;ul&gt;
+&lt;li&gt;大一加入无线电协会，参加协会组织的多起义务维修&lt;/li&gt;
+&lt;li&gt;大二通过考核进入创新实验室&lt;/li&gt;
+&lt;li&gt;曾获得国家励志奖学金，并连续三年获得校奖学金&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;编程语言&quot;&gt;&lt;a href=&quot;#编程语言&quot; class=&quot;headerlink&quot; title=&quot;编程语言&quot;&gt;&lt;/a&gt;&lt;h4&gt;编程语言&lt;/h4&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Objective-C/C&lt;/strong&gt; | 熟练&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Swift&lt;/strong&gt; | 中&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HTML&lt;/strong&gt; | 会使用&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&quot;语言能力&quot;&gt;&lt;a href=&quot;#语言能力&quot; class=&quot;headerlink&quot; title=&quot;语言能力&quot;&gt;&lt;/a&gt;&lt;h4&gt;语言能力&lt;/h4&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;英语&lt;/strong&gt; | 四级，读写能力强&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日语&lt;/strong&gt; | 初级&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;/p&gt;&lt;h4&gt; 个人信息&lt;/h4&gt;&lt;br&gt;王言韶雅 / 女 / 1995&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;手机：151-1792-8241&lt;/p&gt;
+&lt;p&gt;邮箱：&lt;br&gt;&lt;a href=&quot;yeziyan825@gmail.com&quot;&gt; yeziyan825@gmail.com &lt;/a&gt;&lt;
     
     </summary>
     
